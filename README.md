@@ -8,4 +8,4 @@
 [twitter]: https://img.shields.io/twitter/follow/ceiphr?color=blue&logo=twitter&logoColor=white&style=flat
 [github]: https://img.shields.io/github/followers/ceiphr?color=blue&label=follow%20@ceiphr&logo=github
 
-<h5 align="center"> Computer Science student at Stevens Institute of Technology. </br> Freelance Technical Writer for DigitalOcean. </h5>
+<h3 align="center"> Computer Science student at Stevens Institute of Technology. </br> Freelance Technical Writer for DigitalOcean. </h3>
