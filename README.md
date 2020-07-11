@@ -4,7 +4,7 @@
   [![ceiphr.com][website]](https://www.ceiphr.com/) [![Twitter][twitter]](https://www.twitter.com/ceiphr) [![GitHub][github]](https://www.github.com/ceiphr)
 </h1>
 
-[website]: https://img.shields.io/badge/Website-ceiphr.com-blue?style=flat&logo=gatsby
+[website]: https://img.shields.io/badge/website-ceiphr.com-blue?style=flat&logo=gatsby
 [twitter]: https://img.shields.io/twitter/follow/ceiphr?color=blue&logo=twitter&logoColor=white&style=flat
 [github]: https://img.shields.io/github/followers/ceiphr?color=blue&label=follow%20@ceiphr&logo=github
 
