@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">
+  <img width="500px" alt="Profile Logo" src="ceiphr_logo.png">
+  
+  [![ceiphr.com][website]](https://www.ceiphr.com/) [![Twitter][twitter]](https://www.twitter.com/ceiphr) [![GitHub][github]](https://www.github.com/ceiphr)
+</h1>
 
-<!--
-**ceiphr/ceiphr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[website]: https://img.shields.io/badge/Website-ceiphr.com-blue?style=flat&logo=gatsby
+[twitter]: https://img.shields.io/twitter/follow/ceiphr?color=blue&logo=twitter&logoColor=white&style=flat
+[github]: https://img.shields.io/github/followers/ceiphr?color=blue&label=follow%20@ceiphr&logo=github
 
-Here are some ideas to get you started:
+<h5 align="center"> Computer Science student at Stevens Institute of Technology. </br> Freelance Technical Writer for DigitalOcean. </h5>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">
+  <img alt="Ceiphr Background" src="ceiphr_bk.gif">
+  
+  *I don't know what else I should put on this README so, look at my pretty background thing. It's like a lava lamp.*
+</h1>
