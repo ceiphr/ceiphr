@@ -5,7 +5,7 @@
   </a>
 </h3>
 
-## Shalom 👋 <img height="28px" src="wave.gif" />
+## Shalom <img height="24px" src="wave.gif" />
 
 I'm a computer science student at Stevens Institute of Technology and a freelance technical writer making DigitalOcean tutorials.
 
