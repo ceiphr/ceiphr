@@ -21,7 +21,7 @@ I'm a computer science student at Stevens Institute of Technology and a freelanc
 -  Longest streak is **44** days
 <!-- TODO-IST:END -->
 
-### Blog posts
+### Tutorials
 <!-- BLOG-POST-LIST:START -->
 - [How To Harden the Security of Your Production Django Project](https://www.ceiphr.com/how-to-harden-your-production-django-project/)
 - [How To Display Data from the DigitalOcean API with Django](https://www.ceiphr.com/how-to-display-data-from-the-digitalocean-api-with-django/)
