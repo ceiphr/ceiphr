@@ -7,7 +7,7 @@
 
 ## Shalom <a href="https://youtu.be/phIWJsqk7_o"> <img height="24px" src="wave.gif" /> </a>
 
-I'm a computer science student at Stevens Institute of Technology and a freelance technical writer making DigitalOcean tutorials.
+I'm a computer science student at Stevens Institute of Technology. I'm also a freelance technical writer with articles featured in Medium Programming and DigitalOcean Tutorials.
 
 <!--<a href="https://github.com/ceiphr?tab=repositories&type=source">
   <img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceiphr&count_private=true&hide=html&layout=compact&theme=dark&hide_border=true&hide_title=true&bg_color=0d1117">
