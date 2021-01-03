@@ -16,9 +16,9 @@ I'm a computer science student at Stevens Institute of Technology and a freelanc
 ### Todoist Stats
 <!-- TODO-IST:START -->
 🏆  32,481 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 8 tasks this week           
-✅  Completed 5,960 tasks so far           
+🌸  Completed 1 tasks today           
+🗓  Completed 9 tasks this week           
+✅  Completed 5,961 tasks so far           
 ⏳  Longest streak is 44 days
 <!-- TODO-IST:END -->
 
