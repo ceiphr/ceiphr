@@ -1,6 +1,6 @@
 
 <h3 align="center">
-  <a href="https://www.ceiphr.com/" target="_blank">
+  <a href="https://www.ceiphr.com/">
     <img width="500px" alt="Profile Logo" src="readme-banner.png">
   </a>
 </h3>
