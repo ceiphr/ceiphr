@@ -5,7 +5,7 @@
   </a>
 </h3>
 
-## Shalom <a href="https://youtu.be/phIWJsqk7_o"> <img height="24px" src="wave.gif" /> </a>
+## Shalom 👋<!--<a href="https://youtu.be/phIWJsqk7_o"> <img height="24px" src="wave.gif" /> </a>-->
 
 I'm a computer science student at Stevens Institute of Technology. I write technical articles pertaining to the Django Python framework and web development. My most recent article published in DigitalOcean Tutorials is on security hardening Django projects. I am currently working on open-source Electron-based desktop applications and Typescript-based PWAs right here on GitHub!
 
