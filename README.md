@@ -16,8 +16,8 @@ I'm a computer science student at Stevens Institute of Technology. I write techn
 ### Todoist Stats
 <!-- TODO-IST:START -->
 -  **33,991** Karma Points           
--  Completed **14** tasks this week           
--  Completed **6,368** tasks so far           
+-  Completed **15** tasks this week           
+-  Completed **6,369** tasks so far           
 -  Longest streak is **44** days
 <!-- TODO-IST:END -->
 
