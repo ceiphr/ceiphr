@@ -23,7 +23,5 @@ I'm a computer science student at Stevens Institute of Technology. I write techn
 
 ### Tutorials
 <!-- BLOG-POST-LIST:START -->
-- [How To Harden the Security of Your Production Django Project](https://www.digitalocean.com/community/tutorials/how-to-harden-your-production-django-project)
-- [How To Display Data from the DigitalOcean API with Django](https://www.digitalocean.com/community/tutorials/how-to-display-data-from-the-digitalocean-api-with-django)
 - [A Crash Course in Django](https://www.ceiphr.com/a-crash-course-in-django/)
 <!-- BLOG-POST-LIST:END -->
