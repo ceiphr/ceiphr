@@ -15,5 +15,4 @@ jobs:
       - uses: ceiphr/todoist-readme@master
         with:
           TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
-          USERNAME: 'ceiphr'
           PREMIUM: true
