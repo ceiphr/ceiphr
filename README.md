@@ -23,5 +23,5 @@ I'm a computer science student at Stevens Institute of Technology. I write techn
 
 ### Tutorials
 <!-- BLOG-POST-LIST:START -->
-- [A Crash Course in Django](https://www.ceiphr.com/a-crash-course-in-django/)
+- [A Crash Course in Django](https://ceiphr.com/a-crash-course-in-django/)
 <!-- BLOG-POST-LIST:END -->
