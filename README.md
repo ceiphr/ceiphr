@@ -23,5 +23,6 @@ I'm a computer science student at Stevens Institute of Technology. I write techn
 
 ### Tutorials
 <!-- BLOG-POST-LIST:START -->
+- [Beveled Corners with Sass](https://ceiphr.com/beveled-corners-with-sass/)
 - [A Crash Course in Django](https://ceiphr.com/a-crash-course-in-django/)
 <!-- BLOG-POST-LIST:END -->
