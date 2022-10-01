@@ -9,9 +9,11 @@
 
 I'm a computer science student at Stevens Institute of Technology. I write technical articles and work with Linux systems.
 
-<a href="https://github.com/ceiphr?tab=repositories&type=source">
-  <img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceiphr&count_private=true&hide=html&layout=compact&theme=dark&hide_border=true&hide_title=true&bg_color=0d1117">
-</a>
+### Articles
+<!-- BLOG-POST-LIST:START -->
+- [Beveled Corners with Sass](https://ceiphr.com/beveled-corners-with-sass/)
+- [A Crash Course in Django](https://ceiphr.com/a-crash-course-in-django/)
+<!-- BLOG-POST-LIST:END -->
 
 ### Todoist Stats
 <!-- TODO-IST:START -->
@@ -21,8 +23,8 @@ I'm a computer science student at Stevens Institute of Technology. I write techn
 -  Longest streak is **44** days
 <!-- TODO-IST:END -->
 
-### Tutorials
-<!-- BLOG-POST-LIST:START -->
-- [Beveled Corners with Sass](https://ceiphr.com/beveled-corners-with-sass/)
-- [A Crash Course in Django](https://ceiphr.com/a-crash-course-in-django/)
-<!-- BLOG-POST-LIST:END -->
+### Most Used Languages
+
+<a href="https://github.com/ceiphr?tab=repositories&type=source">
+  <img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceiphr&count_private=true&hide=html&layout=compact&theme=dark&hide_border=true&hide_title=true&bg_color=0d1117">
+</a>
